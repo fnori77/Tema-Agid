@@ -1,0 +1,20 @@
+{
+    "name": "Comune di We-Com",
+    "short_name": "We-Com",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "browser",
+    "scope": "/",
+		"main": "server.js",
+    "start_url": "node server.js",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+          "src": "https://comune.parrano.tr.it/parrano-webapp.png",
+          "sizes": "512x512",
+        "type": "image/png",
+          "purpose": "any maskable"
+        }
+      ]
+  }
+  

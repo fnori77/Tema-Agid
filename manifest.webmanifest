@@ -1,0 +1,12 @@
+{
+    "name": "Comune di We-Com",
+    "short_name": "We-Com",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/",
+    "icons":"/",
+    "prefer_related_applications": false
+  }
+  
