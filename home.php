@@ -60,4 +60,4 @@ $img_url = dci_get_option('immagine_comune');
     </main>
 	
 <?php
-get_footer();
+
